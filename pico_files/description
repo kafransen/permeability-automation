@@ -1,0 +1,1 @@
+files to be loaded to raspberry pi pico. The calibration file should be run to generate a calibration code. The startup file should be run to collect data for a set period of time. To use the dynamic run control, switch the 'main.py' file
